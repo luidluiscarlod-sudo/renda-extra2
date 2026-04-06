@@ -148,7 +148,7 @@ export default function DeepDomainsLP() {
                      <div className="text-[10px] font-black text-[#1b1464] uppercase tracking-widest mb-10 bg-blue-50 py-1 rounded">One-Time Final Payment</div>
                      
                      <a 
-                      href="https://pay.mycheckoutt.com/01985d25-baa2-7213-9f1c-a96b491b23d8?ref=" 
+                      href="https://pay.mycheckoutt.com/019d2f31-dcb8-7321-bdb9-90734f21c59c?ref=ref_687e876c27c90" 
                       className="group block w-full bg-green-500 hover:bg-green-600 text-white py-6 rounded-2xl text-2xl font-black transition-all shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:-translate-y-1 active:scale-95 uppercase tracking-tighter"
                      >
                        Join Now!
